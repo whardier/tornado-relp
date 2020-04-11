@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/sysadmin/whardier/tornado-relp/.venv/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "restructuredtext.confPath": ""
+}
